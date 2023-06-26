@@ -22,7 +22,7 @@
 
 [![Bruno's GitHub stats](https://github-readme-stats.vercel.app/api?username=brunoalveslp&theme=dracula)](https://github.com/brunoalveslp/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunoalveslp&hide_progress=false&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunoalveslp&hide_progress=true&theme=dracula)
 
 - Thanks for visiting.
 
