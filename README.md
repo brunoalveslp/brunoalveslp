@@ -12,7 +12,7 @@
 
 :books: I’m currently learning .NET and Angular development
 
-:outbox_tray: 2023 Goals: Create some projects and start working as a dev.
+:outbox_tray: 2024 Goals: Gradute in Software Engeneering and start working as a dev.
 
  
 
