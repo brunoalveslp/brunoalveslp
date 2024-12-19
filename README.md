@@ -8,11 +8,11 @@
 
 :computer: I'm Full-Stack Developer!
 
-:house_with_garden: I’m from Brazil.
+:house_with_garden: I hold a degree in Software Engineering and currently work at Hiper Software.
 
-:books: I’m currently learning .NET and Angular development
+:books: Proficient in .NET, Vue, Nuxt, Postgres, MS SQL,
 
-:outbox_tray: 2024 Goals: Gradute in Software Engeneering and start working as a dev.
+:outbox_tray: My main goal is to start a main role as a software developer fulltime.
 
  
 
@@ -20,9 +20,12 @@
 
 /[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=LINK_GIT)](LINK_GIT)
 
-[![Bruno's GitHub stats](https://github-readme-stats.vercel.app/api?username=brunoalveslp&theme=dracula)](https://github.com/brunoalveslp/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunoalveslp&langs_count=6&theme=tokyonight)
+I work as a Technical Support Specialist at Hiper Software and am currently studying software development. I am also developing applications designed to streamline work processes and improve efficiency in our support team.
+
+---
+
+If you need any further adjustments or additional information, feel free to let me know!
 
 - Thanks for visiting.
 
