@@ -10,7 +10,7 @@
 
 :house_with_garden: I hold a degree in Software Engineering and currently work at Hiper Software.
 
-:books: Proficient in .NET, Vue, Nuxt, Postgres, MS SQL,
+:books: Proficient in .NET, Vue, Postgres, MS SQL,
 
 :outbox_tray: My main goal is to start a main role as a software developer fulltime.
 
